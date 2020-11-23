@@ -120,4 +120,12 @@
         <name>copado__Copado_Selenium_Testing</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>copado__Copado_Console</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Copado_Integrations</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
