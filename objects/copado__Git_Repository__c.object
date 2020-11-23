@@ -248,16 +248,6 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
-            <field>Id</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
-            <field>IsDeleted</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
             <field>LastModifiedById</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
@@ -268,31 +258,11 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
-            <field>Name</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
             <field>OwnerId</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
-        <availableFields>
-            <field>SystemModstamp</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
-            <field>copado__URI__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
         <description>Field Set for customizing the information Displayed in a Git Repository.</description>
-        <displayedFields>
-            <field>copado__Git_Provider__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </displayedFields>
         <displayedFields>
             <field>copado__Branch_Base_URL__c</field>
             <isFieldManaged>false</isFieldManaged>
@@ -394,6 +364,34 @@
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>copado__Source_Format__c</fullName>
+        <deprecated>false</deprecated>
+        <description>Choose between standard Metadata API folder and file structure or DX source structure that uses a different set of files and file extensions. Default is Metadata.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Choose between standard Metadata API folder and file structure or DX source structure that uses a different set of files and file extensions. Default is Metadata.</inlineHelpText>
+        <label>Source Format</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Metadata</fullName>
+                    <default>true</default>
+                    <label>Metadata</label>
+                </value>
+                <value>
+                    <fullName>DX</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>DX</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
     </fields>
     <fields>
         <fullName>copado__Tag_Base_URL__c</fullName>
