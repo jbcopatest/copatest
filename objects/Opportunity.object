@@ -299,6 +299,41 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Random_Picklist__c</fullName>
+        <externalId>false</externalId>
+        <label>Random Picklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Salad</fullName>
+                    <default>false</default>
+                    <label>Salad</label>
+                </value>
+                <value>
+                    <fullName>Cheese</fullName>
+                    <default>false</default>
+                    <label>Cheese</label>
+                </value>
+                <value>
+                    <fullName>Wings</fullName>
+                    <default>false</default>
+                    <label>Wings</label>
+                </value>
+                <value>
+                    <fullName>Breadsticks</fullName>
+                    <default>false</default>
+                    <label>Breadsticks</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>StageName</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackTrending>false</trackTrending>
