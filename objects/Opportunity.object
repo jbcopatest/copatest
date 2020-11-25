@@ -330,6 +330,11 @@
                     <default>false</default>
                     <label>Breadsticks</label>
                 </value>
+                <value>
+                    <fullName>Pickles</fullName>
+                    <default>false</default>
+                    <label>Pickles</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
