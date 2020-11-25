@@ -12,6 +12,14 @@
         <label><!-- CustomFields --></label>
         <name>copado__CustomFields</name>
     </fieldSets>
+    <fieldSets>
+        <label><!-- Git Commit Header --></label>
+        <name>copado__Git_Commit_Header</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Snapshot Waiting Page --></label>
+        <name>copado__Snapshot_Waiting_Page</name>
+    </fieldSets>
     <fields>
         <help><!-- Git branch related to the Org. Be aware that branch names are case sensitive. --></help>
         <label><!-- Branch --></label>
