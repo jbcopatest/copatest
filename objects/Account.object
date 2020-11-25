@@ -350,6 +350,7 @@
         <filterScope>Mine</filterScope>
         <label>My Accounts</label>
     </listViews>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
         <fullName>Client</fullName>
         <active>true</active>
