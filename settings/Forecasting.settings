@@ -247,6 +247,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -288,6 +292,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -463,6 +468,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -504,6 +513,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -683,6 +693,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -725,6 +739,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -900,6 +915,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -941,6 +960,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1120,6 +1140,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -1162,6 +1186,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1337,6 +1362,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -1378,6 +1407,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1557,6 +1587,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -1599,6 +1633,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1774,6 +1809,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -1815,6 +1854,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1994,6 +2034,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -2036,6 +2080,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2211,6 +2256,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -2252,6 +2301,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2431,6 +2481,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -2473,6 +2527,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2648,6 +2703,10 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N4x000004Wu5k</field>
+            <label>Random Picklist</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N4x000001vFwm</field>
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
@@ -2689,6 +2748,7 @@
             <field>00N4x000001vFwk</field>
             <field>00N4x000001vFwl</field>
             <field>00N4x000001vFwn</field>
+            <field>00N4x000004Wu5k</field>
             <field>00N4x000001vFwm</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
