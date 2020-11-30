@@ -345,6 +345,22 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Bundle_Check__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Bundle Check</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Bundle_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Bundle Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>Department</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
