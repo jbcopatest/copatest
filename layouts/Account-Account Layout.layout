@@ -29,6 +29,16 @@
                 <behavior>Edit</behavior>
                 <field>Description</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Field__c</field>
+            </layoutItems>
+
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Bundle_Email__c</field>
+            </layoutItems>
+
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
