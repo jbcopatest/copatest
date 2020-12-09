@@ -6,6 +6,11 @@
         <label>Apex Test with Validation</label>
     </customValue>
     <customValue>
+        <fullName>Automation</fullName>
+        <default>true</default>
+        <label>Automation</label>
+    </customValue>
+    <customValue>
         <fullName>Compliance Check</fullName>
         <default>false</default>
         <label>Compliance Check</label>
@@ -36,26 +41,26 @@
         <label>Static Code Analysis</label>
     </customValue>
     <customValue>
-        <fullName>Validation</fullName>
-        <default>false</default>
-        <label>Validation</label>
-    </customValue>
-    <customValue>
         <fullName>URL Callout</fullName>
         <default>false</default>
         <label>URL Callout</label>
     </customValue>
     <customValue>
-        <fullName>Compliance</fullName>
+        <fullName>Validation</fullName>
         <default>false</default>
-        <isActive>false</isActive>
-        <label>Compliance</label>
+        <label>Validation</label>
     </customValue>
     <customValue>
         <fullName>Static Analysis</fullName>
         <default>false</default>
         <isActive>false</isActive>
         <label>Static Analysis</label>
+    </customValue>
+    <customValue>
+        <fullName>Compliance</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Compliance</label>
     </customValue>
     <masterLabel>Quality Gate Types</masterLabel>
     <sorted>false</sorted>
