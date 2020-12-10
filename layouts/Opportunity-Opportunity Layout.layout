@@ -43,6 +43,10 @@
                 <behavior>Edit</behavior>
                 <field>Random_Picklist__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Check_When_Created__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
